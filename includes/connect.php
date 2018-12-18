@@ -1,9 +1,9 @@
 <?php
 
 // MySQL Settings
-define("DB_HOST", "localhost");
-define("DB_USER", "root");
-define("DB_PASS", "");
+define("DB_HOST", "76.205.161.214:3306");
+define("DB_USER", "admin");
+define("DB_PASS", "admin");
 define("DB_NAME", "hydrid_v1");
 
 
